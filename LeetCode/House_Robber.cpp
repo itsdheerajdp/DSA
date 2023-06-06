@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     int solve(vector<int>&nums,int index,vector<int>&dp){
         if(index>=nums.size())return 0;
