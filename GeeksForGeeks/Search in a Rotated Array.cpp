@@ -10,7 +10,7 @@ class Solution{
                 h=mid;
             }
         }
-        return l;
+        return h; // or return l;
     }
     int binarySearch(int arr[],int low,int high,int key){
         while(low<=high){
