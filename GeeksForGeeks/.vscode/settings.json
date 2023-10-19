@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ipynb": "python",
+        "limits": "cpp",
+        "utility": "cpp"
+    }
+}
